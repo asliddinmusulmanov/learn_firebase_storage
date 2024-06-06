@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyD-pVuXlGndwkqKjjbRiM9pZ9SBS4jw7tI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>695372437143</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.learnFirebaseStorage</string>
+	<key>PROJECT_ID</key>
+	<string>learn-auth-lesson-1</string>
+	<key>STORAGE_BUCKET</key>
+	<string>learn-auth-lesson-1.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:695372437143:ios:16992b9b1e966e49ebfbd2</string>
+	<key>DATABASE_URL</key>
+	<string>https://learn-auth-lesson-1-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

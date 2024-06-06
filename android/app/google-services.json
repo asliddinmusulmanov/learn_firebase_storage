@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "695372437143",
+    "firebase_url": "https://learn-auth-lesson-1-default-rtdb.firebaseio.com",
+    "project_id": "learn-auth-lesson-1",
+    "storage_bucket": "learn-auth-lesson-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695372437143:android:4e6c941084c0e713ebfbd2",
+        "android_client_info": {
+          "package_name": "com.example.firebase_auth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtQm-KbWUHXCCg895yOJWci3S8SnsHHVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695372437143:android:fd881a9b00fb252eebfbd2",
+        "android_client_info": {
+          "package_name": "com.example.firebase_remote_config"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtQm-KbWUHXCCg895yOJWci3S8SnsHHVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695372437143:android:08e0c8f76c8054f8ebfbd2",
+        "android_client_info": {
+          "package_name": "com.example.glassmorphism_login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtQm-KbWUHXCCg895yOJWci3S8SnsHHVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695372437143:android:6a7dcdd17a7bf4bdebfbd2",
+        "android_client_info": {
+          "package_name": "com.example.learn_firebase_realtime_databise"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtQm-KbWUHXCCg895yOJWci3S8SnsHHVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695372437143:android:f52b90e433672e2debfbd2",
+        "android_client_info": {
+          "package_name": "com.example.learn_firebase_storage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtQm-KbWUHXCCg895yOJWci3S8SnsHHVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
